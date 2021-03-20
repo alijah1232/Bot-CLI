@@ -1,1 +1,1 @@
-# Bot-CLI
+A Simple CLI
